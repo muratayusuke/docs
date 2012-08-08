@@ -25,6 +25,9 @@ git config --global color.diff always
 git config --global color.interactive always
 git config --global color.status always
 
+git config --global alias.dt difftool
+git config --global alias.mt mergetool
+
 
 ------------
 wget http://www.perforce.com/downloads/perforce/r12.1/bin.linux26x86_64/p4v.tgz
